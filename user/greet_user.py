@@ -10,7 +10,7 @@ class Greeting:
         print()
         print("Thank you for choosing car booking system \N{slightly smiling face}")
         print()
-        print("TYPE NUMBER TO SELECT OPTION")
+        print("TYPE NUMBER TO SELECT OPTION ")
 
 
 class ConsolePrints:
